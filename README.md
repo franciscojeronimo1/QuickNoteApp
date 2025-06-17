@@ -14,5 +14,5 @@ Após clonar o repositório/baixar os arquivos, navegue até a pasta e instale a
 </h3>
 
 <p align="center">
-  <img alt="ImgPage" src="https://imgur.com/a/quick-note-LAawC7E">
+  <img alt="ImgPage" src="https://imgur.com/gallery/quick-note-LAawC7E">
 </p>
